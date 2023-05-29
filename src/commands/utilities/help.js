@@ -34,7 +34,7 @@ module.exports = {
         }))
       )
       .setFooter({
-        iconURL: `https://cdn.discordapp.com/emojis/1108452659700183190`,
+        iconURL: `https://cdn.discordapp.com/emojis/112699198496854108`,
         text: `If you have any error please contact partridge#4447`,
       });
 
